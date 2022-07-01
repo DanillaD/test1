@@ -1,1 +1,13 @@
 Tas ir main branch. sakums.
+Otra redakcija. mistiska funkcija
+sakums
+
+void main{
+  int a,b,c;
+  a=1;
+  b=2;
+  c=a+b;
+}
+
+beigas
+
