@@ -12,3 +12,14 @@ void main(){
 
 beigas
 
+tika izveidots jauns branch ar nosaukumu funkcija1
+sakums
+
+int funkcija1(int x, int y){
+  int a,b;
+  a=x+1;
+  b=y+2;
+  return a+b
+}
+
+beigas
